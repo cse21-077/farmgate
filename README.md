@@ -1,3 +1,3 @@
 # Farm Gate
 
-This is our App Demo For Absa , Enjoy The Main Funtionalities
+This is our App Demo For A Hackathon in 2022 , Enjoy The Main Funtionalities of the Prototype
